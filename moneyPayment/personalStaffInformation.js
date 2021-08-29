@@ -64,3 +64,5 @@ PersonalStaffInformationMap.set("Panudet", Ice);
 PersonalStaffInformationMap.set("Supawich", Ford);
 PersonalStaffInformationMap.set("Boonyarid", Glock);
 PersonalStaffInformationMap.set("Jitti", Kai);
+
+exports = PersonalStaffInformationMap
